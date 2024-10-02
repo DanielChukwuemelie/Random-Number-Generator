@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-coloer: lightgray;
+}
+
+
+.genDiv{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+#randGenBtn{
+    font-size: 15px;
+    border-radius: 7px;
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    color:whitesmoke;
+    background-color: rgb(115, 84, 209);
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.35s;
+}
+
+#randGenBtn:hover{
+    background-color:rgb(117, 117, 117);
+}
+
+#randGenLabel{
+    text-align: center;
+    font-size: 80px;
+    color: black;
+    display: block;
+}
